@@ -22,6 +22,10 @@ Here is how I am structuring my learning process. Click on any topic to explore 
   
   * **Multiclass Logistic Regression**: *Theoretical concepts and mathematical foundations studied.*
 
+  * **Decision Tree**
+    * [`Main Model`](./The%20Journey/Supervised%20Learning/Decision%20Tree/main.py): The core Decision Tree classification model built to predict Titanic passenger survival. This script contains the complete pipeline, including advanced feature engineering (extracting deck levels, cabin sides, and calculating companion groups) prior to training the model.
+    * [`Data Exploration`](./The%20Journey/Supervised%20Learning/Decision%20Tree/Decision_Tree.ipynb): A supporting Jupyter Notebook used for initial data visualization and understanding the dataset while writing the main script.
+
 * **3. Unsupervised Learning**
   * *Soon...*
 

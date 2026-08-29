@@ -26,6 +26,10 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     * [`Main Model`](./The%20Journey/Supervised%20Learning/Decision%20Tree/main.py): The core Decision Tree classification model built to predict Titanic passenger survival. This script contains the complete pipeline, including advanced feature engineering (extracting deck levels, cabin sides, and calculating companion groups) prior to training the model.
     * [`Data Exploration`](./The%20Journey/Supervised%20Learning/Decision%20Tree/Decision_Tree.ipynb): A supporting Jupyter Notebook used for initial data visualization and understanding the dataset while writing the main script.
 
+  * **Support Vector Machine (SVM)**
+    * [`Main Model`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/main.py): An SVC (Support Vector Classifier) model built to recognize handwritten digits, achieving an accuracy score of ~99.4% by tuning the C and gamma parameters.
+    * [`Notebook Workspace`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/SVM.ipynb): A Jupyter Notebook used alongside the main script to inspect feature names, target labels, and test the model runs.
+
 * **3. Unsupervised Learning**
   * *Soon...*
 

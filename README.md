@@ -10,7 +10,7 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 
 * **1. Data Preprocessing & EDA**
   * *I created my own library of cleaning and caching processes during my [<img src="https://raw.githubusercontent.com/abdallahabukhalil/abdallahabukhalil/94a54f06f82e3e09834e4f23dfce14ae81d75499/assets/InsightHub%20Logo.svg" width="16"> InsightHub](https://github.com/InsightHubapp/InsightHub) project, with some enhancements that were not published in the project.*
-  * [`Hot Encoding`](./The%20Journey/Preprocessing/Hot%20Encoding/main.py): Handling categorical variables and converting text data into a machine-readable format using a car prices dataset.
+  * [`Hot Encoding`](./The%20Journey/Preprocessing/Hot%20Encoding/main.py): Handling categorical variables and converting text data into a machine-readable format.
 
 * **2. Supervised Learning (In Progress... 🚧)**
   * [`Linear Regression`](./The%20Journey/Supervised%20Learning/The%20Beginning,%20Linear%20Regression/Discover%20Data%20Science.py): My first steps in predictive modeling, applying Simple Linear Regression to analyze economic data.

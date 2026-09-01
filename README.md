@@ -13,7 +13,9 @@ Here is how I am structuring my learning process. Click on any topic to explore 
   * [`Hot Encoding`](./The%20Journey/Preprocessing/Hot%20Encoding/main.py): Handling categorical variables and converting text data into a machine-readable format.
 
 * **2. Supervised Learning (In Progress... 🚧)**
-  * [`Linear Regression`](./The%20Journey/Supervised%20Learning/The%20Beginning,%20Linear%20Regression/Discover%20Data%20Science.py): My first steps in predictive modeling, applying Simple Linear Regression to analyze economic data.
+  * **Linear Regression**
+    * [`Main Model`](./The%20Journey/Supervised%20Learning/The%20Beginning,%20Linear%20Regression/Discover%20Data%20Science.py): My first steps in predictive modeling, applying Simple Linear Regression to analyze economic data.
+  
   * **Multiple Linear Regression**: *Theoretical concepts and mathematical foundations studied.*
 
   * **Logistic Regression**
@@ -27,7 +29,7 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     * [`Data Exploration`](./The%20Journey/Supervised%20Learning/Decision%20Tree/Decision_Tree.ipynb): A supporting Jupyter Notebook used for initial data visualization and understanding the dataset while writing the main script.
 
   * **Support Vector Machine (SVM)**
-    * [`Main Model`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/main.py): An SVC (Support Vector Classifier) model built to recognize handwritten digits, achieving an accuracy score of ~99.4% by tuning the C and gamma parameters.
+    * [`Main Model`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/main.py): An SVC (Support Vector Classifier) model built to recognize handwritten digits, achieving an accuracy score of ~99.4% by tuning the `C` and `gamma` parameters.
     * [`Notebook Workspace`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/SVM.ipynb): A Jupyter Notebook used alongside the main script to inspect feature names, target labels, and test the model runs.
 
   * **Random Forest**
@@ -41,7 +43,7 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 
 ## Tools & Libraries
 * **Language:** Python 3.x
-* **Core Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
+* **Core Libraries:** Scikit-Learn, Pandas.
 * **Concepts:** Statistical Modeling, Predictive Analytics.
 
 ## Author

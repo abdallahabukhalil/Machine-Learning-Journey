@@ -30,6 +30,9 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     * [`Main Model`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/main.py): An SVC (Support Vector Classifier) model built to recognize handwritten digits, achieving an accuracy score of ~99.4% by tuning the C and gamma parameters.
     * [`Notebook Workspace`](./The%20Journey/Supervised%20Learning/Support%20Vector%20Machine/SVM.ipynb): A Jupyter Notebook used alongside the main script to inspect feature names, target labels, and test the model runs.
 
+  * **Random Forest**
+    * [`Main Model`](./The%20Journey/Supervised%20Learning/Random%20Forest/main.py): A Random Forest model built to recognize digits. I adjusted settings like `n_estimators` and `max_depth` to reach an accuracy of ~96.39%.
+
 * **3. Unsupervised Learning**
   * *Soon...*
 

@@ -51,7 +51,10 @@ Here is how I am structuring my learning process. Click on any topic to explore 
   * *Soon...*
 
 ### 4. Model Evaluation & Tuning
-  * *Soon...*
+  * **Cross Validation**
+    * **K Fold**
+      * [`Model Comparison Script`](./The%20Journey/Model%20Evaluation%20&%20Validation/Cross%20Validation/K%20Fold/main.py): A script comparing Logistic Regression, SVM, and Random Forest on the Iris dataset. I wrote a custom loop to find the best parameters for each model using Stratified K-Fold cross-validation.
+      * [`Evaluation Workspace`](./The%20Journey/Model%20Evaluation%20&%20Validation/Cross%20Validation/K%20Fold/Score%20Comparison.ipynb): A Jupyter Notebook used to test the cross-validation process and display the final comparison results.
 
 ## Tools & Libraries
 * **Language:** Python 3.x

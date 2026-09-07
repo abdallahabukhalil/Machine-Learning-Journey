@@ -13,7 +13,7 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 
   * [`Hot Encoding`](./The%20Journey/Preprocessing/Hot%20Encoding/main.py): Handling categorical variables and converting text data into a machine-readable format.
 
-### 2. Supervised Learning (In Progress... 🚧)
+### 2. Supervised Learning (Almost Done... 🏁)
 
   * **1. Regression**
 
@@ -47,8 +47,11 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     * **Random Forest**
       * [`Main Model`](./The%20Journey/Supervised%20Learning/Classification/Random%20Forest/main.py): A Random Forest model built to recognize digits. I adjusted settings like `n_estimators` and `max_depth` to reach an accuracy of ~96.39%.
     
-### 3. Unsupervised Learning
-  * *Soon...*
+### 3. Unsupervised Learning (In Progress... 🚧)
+  * **Clustering**
+    * **K-Means**
+      * [`Main Script`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/main.py): A K-Means model to group the Iris dataset[cite: 3]. I used the Elbow method and `KneeLocator` to easily find the best number of groups[cite: 3]. I also compared my groups with the real data labels to check the accuracy, which was about 88%[cite: 3].
+      * [`Clustering Workspace`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/K%20Means.ipynb): A notebook I used to look at the data in graphs, draw the Elbow curve, and see the final results[cite: 4].
 
 ### 4. Model Evaluation & Tuning
   * **Cross Validation**

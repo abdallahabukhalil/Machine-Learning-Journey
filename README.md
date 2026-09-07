@@ -50,8 +50,8 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 ### 3. Unsupervised Learning (In Progress... 🚧)
   * **Clustering**
     * **K-Means**
-      * [`Main Script`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/main.py): A K-Means model to group the Iris dataset[cite: 3]. I used the Elbow method and `KneeLocator` to easily find the best number of groups[cite: 3]. I also compared my groups with the real data labels to check the accuracy, which was about 88%[cite: 3].
-      * [`Clustering Workspace`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/K%20Means.ipynb): A notebook I used to look at the data in graphs, draw the Elbow curve, and see the final results[cite: 4].
+      * [`Main Script`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/main.py): A K-Means model to group the Iris dataset. I used the Elbow method and `KneeLocator` to easily find the best number of groups. I also compared my groups with the real data labels to check the accuracy, which was about 88%.
+      * [`Clustering Workspace`](./The%20Journey/Unsupervised%20Learning/Clustering/K%20Means/K%20Means.ipynb): A notebook I used to look at the data in graphs, draw the Elbow curve, and see the final results.
 
 ### 4. Model Evaluation & Tuning
   * **Cross Validation**

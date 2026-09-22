@@ -46,6 +46,11 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 
     * **Random Forest**
       * [`Main Model`](./The%20Journey/Supervised%20Learning/Classification/Random%20Forest/main.py): A Random Forest model built to recognize digits. I adjusted settings like `n_estimators` and `max_depth` to reach an accuracy of ~96.39%.
+    <br><br>
+
+    * **Naive Bayes**
+    * [`Main Script`](./The%20Journey/Supervised%20Learning/Classification/Naive%20Bayes/main.py): A Multinomial Naive Bayes model built to classify different types of wine. I used `MinMaxScaler` to adjust the data values so the model could process them properly, reaching an accuracy of about 94.44%.
+    * [`Model Workspace`](./The%20Journey/Supervised%20Learning/Classification/Naive%20Bayes/Naive%20Bayes.ipynb): A notebook I used to test the data scaling step and compare the model's predictions next to the real wine types.
     
 ### 3. Unsupervised Learning (In Progress... 🚧)
   * **Clustering**

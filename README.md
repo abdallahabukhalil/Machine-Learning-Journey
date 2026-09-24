@@ -63,6 +63,18 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     * **K Fold**
       * [`Model Comparison Script`](./The%20Journey/Model%20Evaluation%20&%20Validation/Cross%20Validation/K%20Fold/main.py): A script comparing Logistic Regression, SVM, and Random Forest on the Iris dataset. I wrote a custom loop to find the best parameters for each model using Stratified K-Fold cross-validation.
       * [`Evaluation Workspace`](./The%20Journey/Model%20Evaluation%20&%20Validation/Cross%20Validation/K%20Fold/Score%20Comparison.ipynb): A Jupyter Notebook used to test the cross-validation process and display the final comparison results.
+  <br><br>
+
+  * **Hyperparameter Tuning**
+    * **Grid Search**
+      * [`Grid Search Script`](./The%20Journey/Model%20Evaluation%20&%20Validation/Hyperparameter%20Tuning/Grid%20Search/main.py): A script that uses `GridSearchCV` to test all possible parameter combinations for models like SVM and Random Forest on the Iris dataset.
+    <br><br>
+    
+    * **Randomized Search**
+      * [`Randomized Search Script`](./The%20Journey/Model%20Evaluation%20&%20Validation/Hyperparameter%20Tuning/Randomized%20Search/main.py): A script using `RandomizedSearchCV` to check random parameter combinations, which is a great way to save time.
+    <br><br>
+    
+    * [`Search Comparison`](./The%20Journey/Model%20Evaluation%20&%20Validation/Hyperparameter%20Tuning/Comparison.ipynb): A notebook where I ran both methods to compare their scores. I sorted the results to find the best settings, like a specific SVM model for Grid Search and a Random Forest model for Randomized Search.
 
 ## Tools & Libraries
 * **Language:** Python 3.x

@@ -91,25 +91,25 @@ Here is how I am structuring my learning process. Click on any topic to explore 
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
-   <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
-   <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
- </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/linkedin-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/linkedin-black.svg">
+    <img src="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/linkedin-black.svg" width="32" alt="LinkedIn">
+  </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
-   <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
-   <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
- </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/github-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/github-black.svg">
+    <img src="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/github-black.svg" width="32" alt="GitHub">
+  </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000">
-    <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000" width="32" alt="Hugging Face">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/huggingface-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/huggingface-black.svg">
+    <img src="https://github.com/abdallahabukhalil/abdallahabukhalil/blob/main/assets/huggingface-black.svg" width="32" alt="Hugging Face">
   </picture>
 </a>
 

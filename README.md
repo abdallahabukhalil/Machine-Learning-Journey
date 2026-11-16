@@ -75,6 +75,10 @@ Here is how I am structuring my learning process. Click on any topic to explore 
     <br><br>
     
     * [`Search Comparison`](./The%20Journey/Model%20Evaluation%20&%20Validation/Hyperparameter%20Tuning/Comparison.ipynb): A notebook where I ran both methods to compare their scores. I sorted the results to find the best settings, like a specific SVM model for Grid Search and a Random Forest model for Randomized Search.
+    <br><br>
+
+    * **Regularization (L1 & L2)**
+      * [Melbourne Housing Regularization](./The%20Journey/Supervised%20Learning/Regularization/main_4.py): An end-to-end workflow to compare Linear Regression, Lasso (L1), and Ridge (L2) on Melbourne housing data. Used my `bynat` library (`BaseData`) for hierarchical imputation, set up preprocessing with `ColumnTransformer`, and used `GridSearchCV` to find the best regularization strength (`alpha`).
 
 ## Tools & Libraries
 * **Language:** Python 3.x
